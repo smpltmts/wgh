@@ -1,0 +1,20 @@
+.content_slider.flat .content_slider_ul {
+    box-shadow: 0 0 55px 0 rgba(0, 0, 0, 0.4);
+}
+
+
+/* Shadowing image backgrounds */
+.williams  div.image_wrapper{
+
+box-shadow: 3px 3px 6pc 3px rgba(115, 125, 143, 0.7);
+border-radius:14px; 
+}
+
+
+ 
+.home-filter
+
+{background-color: rgba(128, 128, 128, 0.8);
+
+border-radius:16px;
+}
